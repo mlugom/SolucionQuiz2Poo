@@ -1,0 +1,15 @@
+Nombre..........................Pan
+Precio..........................5000.0
+Codigo..........................0
+Granja..........................Granja 1
+                                Granja lechera
+                                477.0,350.0
+Manufacturera...................Manufacturera 1
+                                Manufacturera de alimentos de calidad
+                                250.0,250.0
+Centro de distribucion..........Centro de distribucion 1
+                                Centro de distribucion de mercancia para el mercado
+                                123.0,756.0
+Establecimiento.................Establecimiento 1
+                                Mercado de la canasta familiar a los mejores precios
+                                345.0,578.0
